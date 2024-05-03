@@ -17,3 +17,7 @@ These past few weeks I have leared a lot about the secure shell. I didn’t know
 ![Image](Lab2Ls.png)
 **Logging into IENG6 without password**
 ![Image](SSHNoPassword.png)
+
+Part 3: 
+These past few weeks I have leared a lot about the secure shell. I didn’t know before this that I could create a website from my computer that only I could access because I was the host, but then after using IENG6 and a public server on the UCSD internet, I could then create an SSH instance where I can create a website on the UCSD server. This then allows for me as well as others on the same wifi to access and then alter the website because my computer is no longer the host so it is no longer a private or local host.
+
