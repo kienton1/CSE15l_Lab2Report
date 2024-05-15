@@ -1,3 +1,4 @@
+![Image](6.png)
 ![Image](jpolitzHello.png)
 ![Image](yashHello.png)
 ![Image](Lab2Code.png)
